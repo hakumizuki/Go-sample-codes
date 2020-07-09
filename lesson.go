@@ -1,4 +1,4 @@
-// ※とにかくGolangのdocをみよう
+// ※https://godoc.org/
 
 // パッケージ名 mainは必須
 package main
@@ -357,6 +357,11 @@ Ben Ben Ben☆
 	vertexF := Vertex{5, 6, "7", "8"}
 	changeVertex2(vertexF)
 	fmt.Println(vertexF)
+
+	fmt.Println("ここからmain2=ここからmain2=ここからmain2=ここからmain2=ここからmain2=ここからmain2=ここからmain2")
+	Main2()
+	fmt.Println("ここからmain3=ここからmain3=ここからmain3=ここからmain3=ここからmain3=ここからmain3=ここからmain3")
+	Main3()
 } // End of main()
 
 
